@@ -14,4 +14,4 @@
 *Step 3*: Open the zip file in XCode
 
 
-![alt text](ios-calculator/calc.png)
+![alt text](calc.png)
