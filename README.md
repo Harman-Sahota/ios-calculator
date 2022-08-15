@@ -12,3 +12,6 @@
 *Step 2:* Download the zip file from this repo
 
 *Step 3*: Open the zip file in XCode
+
+
+![alt text]()
