@@ -14,4 +14,4 @@
 *Step 3*: Open the zip file in XCode
 
 
-![alt text](https://github.com/Harman-Sahota/ios-calculator/calc)
+![alt text](https://github.com/Harman-Sahota/ios-calculator/calc.png)
