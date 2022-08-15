@@ -14,4 +14,4 @@
 *Step 3*: Open the zip file in XCode
 
 
-![alt text](Screen Shot 2022-08-15 at 2.10.21 PM.png)
+![alt text](https://github.com/Harman-Sahota/ios-calculator/Screen Shot 2022-08-15 at 2.10.21 PM.png)
